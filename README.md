@@ -31,7 +31,7 @@ This is my solution for the Recipe Page coding challenge from [Frontend Mentor](
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/recipe-page.git
+   git clone https://github.com/amallal2004/Recipe-Page.git
    ```
 2. Open the `index.html` file in your browser to view the page.
 
