@@ -35,7 +35,7 @@ This is my solution for the Recipe Page coding challenge from [Frontend Mentor](
    ```
 2. Open the `index.html` file in your browser to view the page.
 
-Alternatively, you can view the live project here: [Live Demo](#) (replace with your live URL).
+Alternatively, you can view the live project here: [Live Demo](https://amallal2004.github.io/Recipe-Page/) 
 
 ## Screenshots
 
