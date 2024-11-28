@@ -156,5 +156,10 @@ ol > li::marker {
     border: none;
 }
 
+.container__nutrition__column:last-of-type {
+    color: hsl(14, 45%, 36%);
+    font-weight: 700;
+}
+
 
 
