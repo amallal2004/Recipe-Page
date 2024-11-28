@@ -16,7 +16,7 @@ body {
     background-color: hsl(0, 0%, 100%);
     width: 736px;
     border-radius: 24px;
-    margin-top: 120px;
+    margin: 124px 0 124px 0;
 }
 
 .container__header, 
@@ -159,6 +159,10 @@ ol > li::marker {
 .container__nutrition__column:last-of-type {
     color: hsl(14, 45%, 36%);
     font-weight: 700;
+}
+
+.container__nutrition__column:first-of-type {
+    color: hsl(30, 10%, 34%);
 }
 
 
