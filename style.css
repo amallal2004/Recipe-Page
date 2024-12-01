@@ -164,6 +164,41 @@ ol > li::marker {
 .container__nutrition__column:first-of-type {
     color: hsl(30, 10%, 34%);
 }
+@media screen and (max-width: 768px) {
+    .container {
+        width: 100%;
+        max-width: 375px;
+        margin: 24px 16px;
+    }
 
+    .container__header {
+        margin: 0;
+    }
 
+    .container__header__img {
+        width: 100%;
+        height: auto;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+        margin: 0;
+    }
 
+    .container__header__title,
+    .container__header__description,
+    .container__header__pre-time,
+    .container__ingredients,
+    .container__instructions,
+    .container__nutrition {
+        padding: 0 24px;
+    }
+
+    .container__header__title {
+        margin-top: 40px;
+    }
+
+    .container__header__pre-time {
+        width: 100%;
+    }
+}
